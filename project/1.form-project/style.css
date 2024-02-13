@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* <!-- ========================================================================= Navbar part start --> */
+header {
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* background-color: rgb(97, 186, 251); */
+    background-color: steelblue;
+    padding: 5px;
+}
+
+header .logo {
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+header .menu ul {
+    margin-left: 600px;
+    list-style-type: none;
+    display: flex;
+}
+
+header .menu ul li {
+    width: 170px;
+    height: 50px;
+    line-height: 50px;
+    border: 2px solid white;
+    text-transform: uppercase;
+    float: left;
+    position: relative;
+}
+
+.menu ul li:hover {
+    background-color: rgb(44, 72, 98);
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+
+.menu ul ul {
+    display: none;
+}
+
+.menu ul li:hover>ul {
+    display: block;
+}
+
+/* <!-- ========================================================================= Navbar part end --> */
+
+/* <!-- ========================================================================= From part start --> */
+.form {
+    color: white;
+    font-size: 25px;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px 60px;
+    border-radius: 10px;
+    margin: 30px auto;
+    background-color: steelblue;
+    box-shadow: 5px 5px 5px black, -5px -5px 10px black;
+    ;
+}
+
+.form form input {
+    padding: 8px 16px;
+    border-radius: 5px;
+    outline: none;
+    border-color: steelblue;
+}
+
+.form button {
+    margin-top: 10px;
+    padding: 8px 20px;
+}
+
+/* <!-- ========================================================================= Form part end --> */
+
+/* <!-- ========================================================================= Footer part start --> */
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(40, 69, 93);
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.foter_titele h1 {
+    margin: 20px 0;
+    color: red;
+    font-size: 40px;
+}
+
+.footer_info p {
+    max-width: 550px;
+    margin: 10px auto;
+    font-size: 18px;
+}
+
+.footer_icon i {
+    padding: 10px;
+    font-size: 30px;
+}
+
+.footer_icon i:hover {
+    padding: 10px;
+    font-size: 30px;
+    color: red;
+    transition: .4s;
+}
+
+.footer_copyright p {
+    font-size: 17px;
+    color: steelblue;
+    padding: 10px;
+}
+
+/* <!-- ========================================================================= Footer Part end--> */
+@media (min-width: 300px) and (max-width: 576px) {
+    header {
+        display: block;
+    }
+
+    header .logo {
+        margin-top: 25px;
+    }
+
+    header .menu {
+        margin: 0;
+        list-style-type: none;
+        display: block;
+
+
+    }
+
+    header .menu ul {
+        list-style-type: none;
+        display: block;
+        margin-bottom: 40px;
+        margin-left: 20px;
+  
+
+    }
+
+    header .menu ul li {
+        background-color: green;
+        border-color: rgba(203, 222, 203, 0.512);
+        flex-direction: column;
+        margin-left: 7px;
+        margin-top: 20px;
+        border-radius: 10px;
+    }
+
+
+    /* form part */
+    .form {
+        background-color: gray;
+        margin-top: 300px;
+    }
+
+ /* footer part  */
+    footer {
+        position: relative;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768) {}

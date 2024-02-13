@@ -1,0 +1,35 @@
+/* class -2  */
+
+/* .hadding-three{
+    color: orange;
+} */
+
+/* ======================================= 3 */
+
+/* .pragrap_lorem{
+    background-color: blue;
+    color: white;
+}
+body{
+    background-image: url(imges/wp2599602.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+
+
+/* <!-- ========================================================================= class 4 --> */
+
+#pragrap-border1{
+    border-width: 1px;
+    border-style: dashed;
+    box-sizing: border-box;
+    border-color: cyan;
+    border-radius: 5px;
+
+}
+.pragrap-border2{
+    border: 1px  solid orange;
+    border-radius: 2px;
+    
+}

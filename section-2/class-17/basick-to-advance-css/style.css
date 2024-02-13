@@ -1,0 +1,350 @@
+/* class -2  */
+
+/* .hadding-three{
+    color: orange;
+} */
+
+/* ======================================= 3 */
+
+/* .pragrap_lorem{
+    background-color: blue;
+    color: white;
+}
+body{
+    background-image: url(imges/wp2599602.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+
+
+/* <!-- ========================================================================= class 4 --> */
+
+/* #pragrap-border1{
+    border-width: 1px;
+    border-style: dashed;
+    box-sizing: border-box;
+    border-color: cyan;
+    border-radius: 5px;
+
+}
+.pragrap-border2{
+    border: 1px  solid orange;
+    border-radius: 2px;
+    
+} */
+
+
+/* <!-- ========================================================================= class 5 --> */
+/* .margin-a{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid green;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
+.margin-b{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border: 2px solid blue;
+    margin: 40px 50px;
+}
+.margin-c{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    border: 2px solid red;
+    margin: 40px 50px 200px  240px;
+} */
+
+/* <!-- ========================================================================= class 6 --> */
+/* .padding-a{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding-top: 20px; 
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin: 20px 0;
+}
+.padding-b{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    padding: 20px 20px;
+    margin: 20px 0;
+}
+.padding-c{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    padding: 20px 20px 20px 20px;
+} */
+
+
+/* <!-- ========================================================================= class 7 --> */
+
+/* .outline-border {
+    width: 300px;
+    margin: 50px auto;
+    border: 1px solid green;
+    outline-width: 3px;
+    outline-color: red;
+    outline-style: solid;
+    outline-offset: 10px;
+}
+.outline-border01 {
+    width: 300px;
+    margin: 50px auto;
+    border: 1px solid black;
+    outline: 5px solid gray;
+}
+.outline-border02 {
+    width: 300px;
+    margin: 50px auto;
+    border: 1px solid black;
+    outline: 5px solid gray;
+    outline-offset: 6px;
+} */
+
+
+/* <!-- ========================================================================= class 8 --> */
+
+/* .text01{
+    color: red;
+    text-align: center;
+
+  
+}
+.text02{
+    color: blue;
+    text-align: center;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: capitalize;
+
+    text-indent: 50px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    line-height: 30px;
+   
+} */
+
+/* <!-- ========================================================================= class 9 --> */
+
+/* .front h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+
+.front p {
+    font-size: 2vw;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    
+} */
+/* <!-- ========================================================================= class 10 --> */
+
+/* .icon .facebook{
+    color: red;
+    font-size: 150px;
+
+}
+.icon .fingerprint{
+    margin-left: 50px;
+ color: green;
+ font-size: 150px;
+} */
+
+
+
+/* <!-- ========================================================================= class 11 --> */
+
+/* .hober_active_visit a {
+    color: red;
+    background-color: green;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px ;
+    border-radius: 5px;
+}
+.hober_active_visit a:hover {
+    color: white;
+    background-color: tomato;
+}
+.hober_active_visit a:active {
+    color: orange;
+    background-color: cornflowerblue;
+}
+.hober_active_visit a:visited{
+    color: yellow;
+    background-color: yellowgreen;
+} */
+
+
+/* <!-- ========================================================================= class 12 --> */
+
+/* .list-style ul {
+    list-style-type: circle;
+    list-style-type: decimal;
+    list-style-type: decimal-leading-zero;
+    list-style-type: lower-alpha;
+    list-style-type: lower-greek;
+    list-style-type: lower-latin;
+    list-style-type: lower-roman;
+    list-style-type: square;
+    list-style-type: upper-alpha;
+
+    list-style-position: inside;
+    list-style-position: outside;
+
+    list-style-image: url(imges/2.logo.png);
+
+    list-style: square inside url(imges/logo.png) ;
+} */
+
+
+/* <!-- ========================================================================= class 13 --> */
+/* .tabile_data table , th, td{
+    border: 2px solid yellow;
+    border-collapse: collapse;
+    text-align: left;
+}
+.tabile_data table{
+    width: 100%;
+   
+}
+.tabile_data_2 table , th, td{
+    border: 2px solid green;
+    border-collapse: collapse;
+    text-align: left;
+}
+.tabile_data_2 table{
+    width: 100%;
+   
+} */
+
+/* <!-- ========================================================================= class 14 --> */
+/* .block_in_block h2{
+    display: inline;
+}
+.block_in_block span{
+    display: block;
+    text-align: center;
+}
+.block_in_block ul li{
+    display: inline;
+} */
+
+
+/* <!-- ========================================================================= class 15 --> */
+/* .width_hight .pwh-1{
+    width: 500px;
+    border: 2px solid red;
+    margin: 10px  auto;
+    padding: 10px;
+}
+.width_hight .pwh-2{
+    max-width: 500px;
+    border: 2px solid green;
+    margin: 10px  auto;
+    padding: 10px;
+}
+.width_hight .pwh-3{
+    max-width: 500px;
+    height: 200px;
+    border: 2px solid orange;
+    margin: 10px  auto;
+    padding: 10px;
+    overflow: visible;
+    overflow: hidden;
+    overflow: scroll;
+    overflow: auto;
+    
+} */
+
+/* <!-- ========================================================================= class 16 --> */
+/* .position {
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: relative;
+
+}
+
+.position_tow {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+     margin: auto;
+     border-radius: 50%;
+}
+.position_three h1{
+    width: 240px;
+    position: sticky;
+    background-color: red;
+    margin-top: 50px;
+    top: 0;
+    color: white;
+}
+.position_three h2{
+position: fixed;
+    bottom: 0;
+    right: 0;
+} */
+/* <!-- ========================================================================= class 17 --> */
+
+.flot .flot-1 .flot-img-1{
+    width: 300px;
+    float: left;
+    float: right;
+}
+.flot .flot-1 .flot-img-2{
+    width: 300px;
+    float: left;
+    
+}
+.flot .flot-1 p{
+     clear:both ;
+}
+.flot .flot-2 .box-1{
+    width: 250px;
+    height: 200px;
+    background-color:  green;
+}
+.flot .flot-2 .box-2{
+    width: 250px;
+    height: 200px;
+    background-color:  orange;
+}
+.flot .flot-2 .box-3{
+    width: 250px;
+    height: 200px;
+    background-color:  blue;
+}
+.flot .flot-2 .box-4{
+    width: 250px;
+    height: 200px;
+    background-color:  tomato;
+}
+.flot .flot-2 div{
+   float: left;
+}

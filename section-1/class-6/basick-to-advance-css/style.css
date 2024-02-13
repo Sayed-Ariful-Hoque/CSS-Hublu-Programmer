@@ -1,0 +1,88 @@
+/* class -2  */
+
+/* .hadding-three{
+    color: orange;
+} */
+
+/* ======================================= 3 */
+
+/* .pragrap_lorem{
+    background-color: blue;
+    color: white;
+}
+body{
+    background-image: url(imges/wp2599602.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+
+
+/* <!-- ========================================================================= class 4 --> */
+
+/* #pragrap-border1{
+    border-width: 1px;
+    border-style: dashed;
+    box-sizing: border-box;
+    border-color: cyan;
+    border-radius: 5px;
+
+}
+.pragrap-border2{
+    border: 1px  solid orange;
+    border-radius: 2px;
+    
+} */
+
+
+/* <!-- ========================================================================= class 5 --> */
+/* .margin-a{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid green;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
+.margin-b{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border: 2px solid blue;
+    margin: 40px 50px;
+}
+.margin-c{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    border: 2px solid red;
+    margin: 40px 50px 200px  240px;
+} */
+
+/* <!-- ========================================================================= class 5 --> */
+.padding-a{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding-top: 20px; 
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin: 20px 0;
+}
+.padding-b{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    padding: 20px 20px;
+    margin: 20px 0;
+}
+.padding-c{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    padding: 20px 20px 20px 20px;
+}
+
